@@ -98,4 +98,5 @@ torchrun --nproc_per_node=8 train.py --data_dir /path/to/data --max_steps 2500
 
 - **Edouard Foussier** — [GitHub](https://github.com/edouardfoussier) · [LinkedIn](https://linkedin.com/in/edouardf)
 - **Boris** (rm-wu) — [GitHub](https://github.com/rm-wu)
-- + 2 teammates
+- **Aymane**
+- **Ricardo**
